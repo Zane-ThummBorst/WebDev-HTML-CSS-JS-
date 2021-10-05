@@ -1,0 +1,14 @@
+{
+  "name": "cs-546-lab-3",
+  "version": "1.0.0",
+  "description": "Venom 2 was a pretty alright movie, but to the person who brought seven 6 year olds into the movie you are 100% the worst.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Zane ThummBorst 10445110",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
+}
